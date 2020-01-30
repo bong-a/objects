@@ -1,4 +1,4 @@
-package theater;
+package chapter01;
 
 public class Theater {
     private TicketSeller ticketSeller;

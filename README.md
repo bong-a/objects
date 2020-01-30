@@ -5,7 +5,8 @@
 
 ## [공부 정리 내용]
 
-* Chapter 1. [객체, 설계](./src/main/java/theater/README.md)
+* Chapter 1. [객체, 설계](./src/main/java/chapter01/README.md)
+* Chapter 2. [객체지향 프로그래밍](./src/main/java/chapter02/README.md)
 
 
 

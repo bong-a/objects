@@ -32,7 +32,7 @@
 
 ##### 클래스 다이어그램
 
-<img src="../../resources/images/chapter1-1.png" alt="Package theater" style="zoom:70%;" />
+<img src="../../resources/images/chapter1-1.png" alt="Package chapter01" style="zoom:70%;" />
 
 
 
