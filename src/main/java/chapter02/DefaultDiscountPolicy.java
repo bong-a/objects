@@ -4,15 +4,10 @@ import java.util.ArrayList;
 import java.util.Arrays;
 import java.util.List;
 
-/*public interface DiscountPolicy {
-
-    Money calculateDiscountAmount(Screening screening);
-}*/
-
-public abstract class DiscountPolicy {
+/*public abstract class DefaultDiscountPolicy implements DiscountPolicy {
     private List<DiscountCondition> conditions = new ArrayList<>();
 
-    public DiscountPolicy(DiscountCondition... conditions) {
+    public DefaultDiscountPolicy(DiscountCondition... conditions) {
         this.conditions = Arrays.asList(conditions);
     }
 
@@ -27,4 +22,4 @@ public abstract class DiscountPolicy {
     }
 
     abstract protected Money getDiscountAmount(Screening Screening);
-}
+}*/

@@ -5,6 +5,7 @@ import chapter02.DiscountPolicy;
 import chapter02.Money;
 import chapter02.Screening;
 
+//public class PercentDiscountPolicy extends DefaultDiscountPolicy {
 public class PercentDiscountPolicy extends DiscountPolicy {
     private double percent;
 

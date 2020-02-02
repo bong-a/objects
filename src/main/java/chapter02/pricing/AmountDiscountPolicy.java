@@ -1,10 +1,8 @@
 package chapter02.pricing;
 
-import chapter02.DiscountCondition;
-import chapter02.DiscountPolicy;
-import chapter02.Money;
-import chapter02.Screening;
+import chapter02.*;
 
+//public class AmountDiscountPolicy extends DefaultDiscountPolicy {
 public class AmountDiscountPolicy extends DiscountPolicy {
     private Money discountAmount;
 
